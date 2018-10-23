@@ -1,0 +1,27 @@
+<annotation>
+	<folder>P00009</folder>
+	<filename>P00009_10498.jpg</filename>
+	<path>images/test_xml/P00009_10498.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<class>person</class>
+		<gender>female</gender>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>769</xmin>
+			<ymin>268</ymin>
+			<xmax>842</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder>P00006</folder>
+	<filename>P00006_10543.jpg</filename>
+	<path>images/train_xml/P00006_10543.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<class>person</class>
+		<gender>male</gender>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>266</ymin>
+			<xmax>881</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

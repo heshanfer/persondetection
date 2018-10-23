@@ -1,0 +1,27 @@
+<annotation>
+	<folder>P00004</folder>
+	<filename>P00004_10519.jpg</filename>
+	<path>images/test_xml/P00004_10519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<class>person</class>
+		<gender>male</gender>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>304</ymin>
+			<xmax>948</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>
